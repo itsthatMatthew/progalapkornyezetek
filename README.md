@@ -55,11 +55,7 @@ Az elsőnek elért breakpointnál meg fog állni a programod, és a környezet i
 
 Egy breakpoint elérése esetén az adott sor sárga színnel fog megjelenítésre kerülni, felül megjelenik egy kis navigációs panel, illetve bal szélül különböző információkat tartalmazó panelek. A navigációs panelen szereplő gombokra víve az egeret megmutatják, hogy pontosan mit is csinálnak, illetve ezek a billentyűkombinációk használhatóak kiváltásukra:
 
-<<<<<<< HEAD
 |Gyorsbillentyű|Hatás/magyarázat|
-=======
-|||
->>>>>>> e778afa00bf6488e930ac4f1f877eb5f5fcd4ff5
 |-|-|
 |`F5`|Továbbengedés: a program csak a soron következő breakpointnál fog újra megállni.|
 |`F10`|Léptetés: a program sorról-sorra végigléptethető, mindegyiknél állva marad.|
