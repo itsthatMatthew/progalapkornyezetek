@@ -5,6 +5,10 @@
       "label": "gcc-build-file",
       "command": "/usr/bin/gcc",
       "args": [
+        "-Wall",
+        "-Wextra",
+        "-pedantic",
+        "-Werror",
         "-fdiagnostics-color=always",
         "-g",
         "${file}",
